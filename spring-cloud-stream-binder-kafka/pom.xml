@@ -6,6 +6,7 @@
 	<packaging>jar</packaging>
 	<name>spring-cloud-stream-binder-kafka</name>
 	<description>Kafka binder implementation</description>
+	<version>1.2.1.TALEND</version>
 
 	<parent>
 		<groupId>org.springframework.cloud</groupId>
@@ -17,7 +18,7 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-stream-binder-kafka-core</artifactId>
-			<version>1.2.1.RELEASE</version>
+			<version>1.2.1.TALEND</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
